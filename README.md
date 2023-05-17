@@ -20,6 +20,6 @@ yarn dev
 pnpm dev
 ```
 
-Finally, go to [home page](http://localhost:3000) and see the implementation of `john-ui-lib`.
+Finally, go to [home page](http://localhost:3000) to see the implementation of ***[john-ui-lib](https://github.com/jpmadrigal07/john-ui-lib)***.
 
-If you want to see the actual page component, got to file `./components/Home.tsx`
+If you want to see the actual code on the component, got to file *`./components/Home.tsx`*.
